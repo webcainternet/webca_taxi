@@ -1,0 +1,10 @@
+List of Fonts used in template 
+
+
+
+
+Font Awesome		http://fortawesome.github.io/Font-Awesome
+Kreon			http://www.google.com/fonts/specimen/Kreon
+
+
+
